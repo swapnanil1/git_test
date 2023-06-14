@@ -1,0 +1,2 @@
+Hi World i am editing this txt file using vim!
+I am stuck inside vim and cant get out so i thought to write somethinghere
